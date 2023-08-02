@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\bin\Debug\net6.0\DelegeTask.exe
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\bin\Debug\net6.0\DelegeTask.deps.json
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\bin\Debug\net6.0\DelegeTask.runtimeconfig.json
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\bin\Debug\net6.0\DelegeTask.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\bin\Debug\net6.0\DelegeTask.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\DelegeTask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\DelegeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\DelegeTask.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\DelegeTask.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\DelegeTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\DelegeTask.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\refint\DelegeTask.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\DelegeTask.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\DelegeTask.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\DelagatePractic\DelegeTask\DelegeTask\obj\Debug\net6.0\ref\DelegeTask.dll
